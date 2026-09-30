@@ -1,0 +1,8 @@
+# Default owners for the repository
+* @agsolutions-admin-lab/product-core
+
+# GitHub configuration and administration files
+/.github/ @agsolutions-admin-lab/github-admins
+
+# Documentation ownership
+/docs/ @agsolutions-admin-lab/product-core
