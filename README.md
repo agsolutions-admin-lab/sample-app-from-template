@@ -26,3 +26,5 @@ This template includes:
 3. Configure project-specific owners and permissions.
 4. Review branch protection and repository settings.
 5. Begin development.
+
+## Testing
