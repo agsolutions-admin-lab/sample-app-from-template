@@ -27,4 +27,8 @@ This template includes:
 4. Review branch protection and repository settings.
 5. Begin development.
 
+## Approval Test
+
+Testing required PR approval for GH-06.
+
 ## Testing
